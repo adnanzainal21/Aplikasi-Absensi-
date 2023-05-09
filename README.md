@@ -2,4 +2,4 @@
 Aplikasi Absensi 
 
 
-aplikasi di tujukan sbagai absensi yang di gunakan ole semua dengan kosep pembelajaran
+aplikasi di tujukan sebagai absensi yang di gunakan ole semua dengan kosep pembelajaran
